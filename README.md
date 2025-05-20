@@ -1,3 +1,3 @@
 # Springprojectjava
-This is my first use of spring here are screenshots of the page http://localhost:8080/greeting?
-![image](https://github.com/user-attachments/assets/dba8d8c5-2164-4620-881d-9e9862adc3c3)
+This is my first use of spring here is a screenshot of the page http://localhost:8080/greeting?
+![image](https://github.com/user-attachments/assets/061cbd30-d2d7-4544-b1b1-8219cde5c21e)
